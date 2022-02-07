@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Info",
+      "value": "Este es un test"
+    },
+    {
+      "trait_type": "Data",
+      "value": "Nft Logo"
+    }
+  ],
+  "description": "NFT Test By Dimar Borda",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcY1g3rcApSYMMKPXyxAzQik2VrUH1bkEE5UYaDbF4QdC",
+  "name": "NFTTestDimar"
+}
